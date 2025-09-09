@@ -1,5 +1,5 @@
 <h1 align="center">Gerência de Gestão do Território e Informações Geoespaciais do INEA</h1>
-<h3 align="center">Fomentando o compartilhamento e colaboração de geoinformações sobre o Estado do Rio de Janeiro</h3>
+<h3 align="center">Fomentando o compartilhamento e colaboração de geoinformações de interesse ambiental sobre o Estado do Rio de Janeiro</h3>
 
 - Visite nosso site: [Portal GEOINEA](https://geoportal.inea.rj.gov.br/portal/apps/experiencebuilder/experience/?id=811a0feace564581afae2f9149b8031d)
 - [Tutoriais](https://geoportal.inea.rj.gov.br/portal/apps/experiencebuilder/experience/?id=6942b9ad0b1346c49453117c09c32eea)
